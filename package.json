@@ -1,0 +1,12 @@
+{
+	"name": "Jaggy",
+	"version": "1.0.0",
+	"description": "My First Discord Bot",
+	"main": "jaggy.js",
+	"author": "ERNEST LU",
+	"dependencies": {
+		"array": "^0.4.3",
+		"map": "^1.0.1",
+		"string": "^3.3.3"
+	}
+}
