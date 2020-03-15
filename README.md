@@ -1,0 +1,2 @@
+# JaggyBot
+Jaggy Discord Bot
